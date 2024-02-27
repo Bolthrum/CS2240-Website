@@ -1,0 +1,19 @@
+@font-face {
+  font-family: "dmcv";
+  src: url(fonts/dmc5/dmc5font-webfont.woff);
+}
+
+body {
+  background: #13072e;
+}
+
+#test1 {
+  font-size: 75pt;
+  background: -webkit-linear-gradient(left, #ffffff, #ffffff);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  font-family: 'dmcv';
+  font-weight: 200;
+  text-align: center;
+  padding-top: 5%;
+}
