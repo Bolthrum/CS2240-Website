@@ -4,12 +4,12 @@
 }
 
 body {
-  background: #13072e;
+  background: #ffffff;
 }
 
 #test1 {
-  font-size: 75pt;
-  background: -webkit-linear-gradient(left, #ffffff, #ffffff);
+  font-size: 140pt;
+  background: -webkit-linear-gradient(left, #ce1818 30%, #75dcd5, #000000 70%);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   font-family: 'dmcv';
